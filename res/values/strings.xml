@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IFAM Tour</string>
+    <string name="informacoes">Sistema Simulador de Excursao
+IFAM Tour
+Desenvolvido por: Marcos Paulo Siqueira de Farias
+Lazaro Torres de Albuquerque
+Designer de Diego Mendes Valério
+Orientador: Claudio de Oliveira Santos</string>
+</resources>
